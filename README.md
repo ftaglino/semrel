@@ -13,7 +13,7 @@ In [1], these approaches were described with the support of running examples, co
 - _Linked Open Data Description Overlap_ (_LODDO_) [3], providing 2 strategies, namely, _lod_overlap_, and _lod_jaccard_.
 
 **Approaches based on triple patterns**, which rely on nodes that belong to paths satisfying specific conditions. They are: 
-- _Linked Data Semantic Distance_ (_LDSD_) [4], providing 3 strategies, namely, _ldsd_d_, _ldsd_i_, _ldsd_c_;
+- _Linked Data Semantic Distance_ (_LDSD_) [4], providing 3 strategies, namely, _ldsd_dw_, _ldsd_iw_, _ldsd_cw_;
 - _Linked Data Semantic Distance with Global Normalization_ (_LDSDGN_) [5], providing 3 strategies, namely, _ldsd_alpha_, _ldsd_beta_, _ldsd_gamma_;
 - _Propagated Linked Data Semantic Distance_ (_PLDSD_) [6].
 
